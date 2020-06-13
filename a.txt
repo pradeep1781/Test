@@ -1,8 +1,2 @@
 Hello World!!!
 a
-aa
-b
-bb
-aaa
-aaaa
-aaaaa
